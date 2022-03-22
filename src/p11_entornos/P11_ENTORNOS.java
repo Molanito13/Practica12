@@ -15,7 +15,8 @@ public class P11_ENTORNOS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("Sana sanita culito de rana si no se cura hoy se curará...");
     }
     
 }
