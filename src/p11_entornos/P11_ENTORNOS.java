@@ -19,6 +19,8 @@ public class P11_ENTORNOS {
         System.out.println("Sana sanita culito de rana si no se cura hoy se curará...");
         System.out.println("¿Cuándo se curará?");
         System.out.println("¡MAÑANA!");
+        
+        System.out.println("¡Editado desde GitHub!");
     }
     
 }
